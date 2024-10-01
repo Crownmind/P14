@@ -151,3 +151,4 @@ skipButton.addEventListener("click", () => {
 });
 
 nextButton.addEventListener
+            
